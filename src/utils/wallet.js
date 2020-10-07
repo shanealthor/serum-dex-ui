@@ -5,6 +5,7 @@ import { useConnectionConfig } from './connection';
 import { useLocalStorageState } from './utils';
 
 export const WALLET_PROVIDERS = [
+  { name: 'Illuminati.Finance', url: 'https://illuminati.finance/wallet' },
   { name: 'sollet.io', url: 'https://www.sollet.io' },
 ];
 
