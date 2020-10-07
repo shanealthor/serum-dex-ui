@@ -19,9 +19,17 @@ export default function Index() {
           Make sure to go to Balances and click Settle to send out your funds.
         </Paragraph>
         <Paragraph style={{ color: 'rgba(255,255,255,0.5)' }}>
-          To fund your wallet, <a href="https://www.sollet.io">sollet.io</a>.
-          You can get SOL from FTX, Binance, BitMax, and others. You can get
-          other tokens from FTX.{' '}
+          To use this DEX, fund your{' '}
+          <a href="https://illuminati.finance/wallet" target="_blank">
+            Illuminati
+          </a>{' '}
+          wallet with SOL . You can get SOL from{' '}
+          <a
+            href="https://www.binance.com/en/register?ref=EGEII3JN"
+            target="_blank"
+          >
+            Binance
+          </a>{' '}
         </Paragraph>
       </Typography>
       <Tabs defaultActiveKey="orders">
